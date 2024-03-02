@@ -6,7 +6,7 @@ public class NombrePremier {
         if (nombre <= 1) {
             return false;
         }
-        
+        // new message nombrepremier
         // Vérification si le nombre est divisible par un nombre autre que 1 et lui-même
         for (int i = 2; i < nombre; i++) {
             if (nombre % i == 0) {
