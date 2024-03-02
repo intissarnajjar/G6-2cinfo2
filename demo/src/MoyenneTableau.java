@@ -13,5 +13,5 @@ public class MoyenneTableau {
         double moyenne = MoyenneTableau.moyenneTableau(tab);
         System.out.println("La moyenne des éléments du tableau est : " + moyenne);
     }
-    
+    //calculer la somme 
 }
