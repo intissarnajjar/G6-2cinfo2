@@ -4,7 +4,7 @@ public class CalculFactorielle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Trouver un nombre pour calculer sa factorielle : ");
+        System.out.print("Donnez un nombre pour calculer sa factorielle : ");
         int nombre = scanner.nextInt();
 
         long resultat = 1;
